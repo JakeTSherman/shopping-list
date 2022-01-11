@@ -2,3 +2,7 @@
 - Eggs 
 - Xbox
 - Fourth Thing
+- Kale Chips
+- Dog Food
+- Toothpaste
+- Lactose-Free Oat Milk
